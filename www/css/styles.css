@@ -7,9 +7,13 @@
   padding-right: 15px;
   font-family: 'Istok Web', sans-serif;
 }
+h3 {
+  margin-top: 50px;
+}
 
 h4 {
   margin-top: 25px;
+  margin-bottom: 0px;
 }
 [class*="col-"] {
   padding-top: 15px;
@@ -20,3 +24,10 @@ h4 {
   /*border: 1px solid rgba(86,61,124,.2);*/
 }
 
+.page_top {
+  margin-top: 25px;
+}
+
+.page_end {
+  margin-bottom: 100px;
+}
